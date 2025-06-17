@@ -27,6 +27,7 @@ def delete_task() -> None:
 
 def update_task() -> None:
     pass
+print()
 
 
 def main() -> None:
